@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardorincon/Desktop/libro de fsharp/capitulo14/capitulo14.fsproj": {}
+  },
+  "projects": {
+    "/Users/leonardorincon/Desktop/libro de fsharp/capitulo14/capitulo14.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardorincon/Desktop/libro de fsharp/capitulo14/capitulo14.fsproj",
+        "projectName": "capitulo14",
+        "projectPath": "/Users/leonardorincon/Desktop/libro de fsharp/capitulo14/capitulo14.fsproj",
+        "packagesPath": "/Users/leonardorincon/.nuget/packages/",
+        "outputPath": "/Users/leonardorincon/Desktop/libro de fsharp/capitulo14/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardorincon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "generatePathProperty": true
+            },
+            "giraffe": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "giraffe.ViewEngine": {
+              "target": "Package",
+              "version": "[1.4.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

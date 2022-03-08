@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLECuu9Y5QM62yhOopDNzqSEVqaashE4k59cvmblAXDnqkjRHxIY/+8MTpFcgnIAZR6KRMlnd93l+9K5JViq/Q==",
+  "success": true,
+  "projectFilePath": "/Users/leonardorincon/Desktop/libro de fsharp/cap2class/cap2class.fsproj",
+  "expectedPackageFiles": [
+    "/Users/leonardorincon/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

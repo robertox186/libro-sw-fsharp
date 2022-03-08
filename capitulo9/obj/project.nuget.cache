@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d1lFLYtylqRynU1nJMRwvOCj2YeJNyZ7b/RDuRVGNxj2su5DGJrhIx6++vj5D+RQpWiXXiij5QsNr56uLEK5rQ==",
+  "success": true,
+  "projectFilePath": "/Users/leonardorincon/Desktop/libro de fsharp/capitulo9/capitulo9.fsproj",
+  "expectedPackageFiles": [
+    "/Users/leonardorincon/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
